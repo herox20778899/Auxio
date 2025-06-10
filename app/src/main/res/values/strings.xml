@@ -3,7 +3,8 @@
     <!-- Info namespace | App labels -->
     <eat-comment />
 
-    <string name="info_app_desc">A simple, rational music player for android.</string>
+    <string name="info_app_desc">Premium Private Music Player.</string>
+    <string name="info_app_name">HX Player</string>
 
     <!-- Label Namespace | Static Labels -->
     <eat-comment />
